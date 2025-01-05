@@ -1,6 +1,6 @@
 # SECI1013 Discrete Structure
 
-In SECI 1013 Discrete Structure, you'll explore mathematical foundations of computer science, including set theory, proof techniques, relations, functions, counting, graph theory, and finite automata to solve computational problems.
+In SECI 1013 Discrete Structure, foundations of computer science, including set theory, proof techniques, relations, functions, counting, graph theory, and finite automata will be learned to solve computational problems.
 
 <table>
   <thead>
