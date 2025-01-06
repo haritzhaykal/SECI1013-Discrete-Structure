@@ -59,4 +59,5 @@ In SECI 1013 Discrete Structure, foundations of computer science, including set 
   </tbody>
 </table>
 
+The SECI1013 Discrete Structure course has enhanced my understanding of the foundational concepts in computer science, especially through its focus on proof techniques and graph theory. By connecting theoretical principles like set theory and functions to practical applications, it deepens my problem-solving skills. Some suggestions that I have to upscale the experience of the class by having more group activities.
  
